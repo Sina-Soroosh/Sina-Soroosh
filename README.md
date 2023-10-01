@@ -31,6 +31,7 @@ A junior Front-End developer with deep knowledge in Javascripts framework "React
 
 <div align="center">
   <a href="https://github.com/Sina-Soroosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-Soroosh&langs_count=10&title_color=0891b2&text_color=ffffff&hide_progress=true&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <br />
 <a href="http://www.github.com/Sina-Soroosh"><img src="https://github-readme-stats.vercel.app/api?username=Sina-Soroosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sina-Soroosh's GitHub stats" /></a>
 <a href="http://www.github.com/Sina-Soroosh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sina-Soroosh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
