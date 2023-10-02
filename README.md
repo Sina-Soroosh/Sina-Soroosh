@@ -21,6 +21,32 @@ A junior Front-End developer with deep knowledge in Javascripts framework "React
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 </p>
 
+### Work Samples
+<p>
+  <b>D-REC</b>
+  <p>Developed a website for renting and buying houses using the React library.</p>
+  <a href="https://dreamy-mccarthy-n3ckua173.iran.liara.run/">View the project</a>
+  <hr />
+</p>
+
+<p>
+  <b>Mahlin Restaurant Cafe</b>
+  <p>Developed the landing page of Mahlin Restaurant Cafe using the React library.</p>
+  <a href="https://mahlin.iran.liara.run/">View the project</a>
+  <hr />
+</p>
+<p>
+  <b>PC+</b>
+  <p>Developed a website for selling computer parts called PC+ using html, css, and js.</p>
+  <a href="https://pc-plus.iran.liara.run/">View the project</a>
+  <hr />
+</p>
+<p>
+  <b>Atawich Restaurant</b>
+  <p>Developed an English website for Atawich Restaurant using html, css, and js.</p>
+  <a href="http://atawich-sinasroosh.freehost.io/">View the project</a>
+</p>
+
 ### Socials
 
 <p align="left"> 
