@@ -23,6 +23,14 @@ A junior Front-End developer with deep knowledge in Javascripts framework "React
 
 ### Work Samples
 <p>
+  <b>Spind Store</b>
+  <p>
+Sepinod store site developed with React library
+</p>
+  <a href="https://spinod.iran.liara.run/">View the project</a>
+  <hr />
+</p>
+<p>
   <b>D-REC</b>
   <p>Developed a website for renting and buying houses using the React library.</p>
   <a href="https://dreamy-mccarthy-n3ckua173.iran.liara.run/">View the project</a>
