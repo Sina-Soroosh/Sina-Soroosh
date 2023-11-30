@@ -7,7 +7,7 @@ Front-End Developer
 A junior Front-End developer with deep knowledge in Javascripts framework "React js".
 
 * ✉   You can contact me at <a href="mailto:sinasoroosh07@gmail.com">sinasoroosh07@gmail.com</a>
-* 🧠  I'm learning redux
+* 🧠  I'm learning NEXT JS
 * ⚡  I'm so interested in coding!
 
 ### Skills
