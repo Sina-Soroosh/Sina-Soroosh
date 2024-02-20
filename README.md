@@ -62,7 +62,7 @@ Sepinod store site developed with React library
 <p>
   <b>Atawich Restaurant</b>
   <p>Developed an English website for Atawich Restaurant using html, css, and js.</p>
-  <a href="http://atawich-sinasroosh.freehost.io/">View the project</a>
+  <a href="https://atawich-sinasoroosh.freehost.io/">View the project</a>
 </p>
 
 ### Socials
