@@ -7,7 +7,7 @@ Front-End Developer
 A junior Front-End developer with deep knowledge in Javascripts framework "React js".
 
 * ✉   You can contact me at <a href="mailto:sinasoroosh07@gmail.com">sinasoroosh07@gmail.com</a>
-* 🧠  I'm learning NEXT JS
+* 🧠  I'm learning TypeScript
 * ⚡  I'm so interested in coding!
 
 ### Skills
@@ -24,6 +24,14 @@ A junior Front-End developer with deep knowledge in Javascripts framework "React
 </p>
 
 ### Work Samples
+<p>
+  <b>Pearl</b>
+  <p>
+    Pearl store site with next js developed with page router
+</p>
+  <a href="https://pearl.liara.run/">View the project</a>
+  <hr />
+</p>
 <p>
   <b>Turbo Writers</b>
   <p>
