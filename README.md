@@ -28,7 +28,7 @@ A junior Front-End developer with deep knowledge in Javascripts framework "React
   <p>
     Turbo Writers site for publishing articles developed with React and Redux
 </p>
-  <a href="https://turbo-writers.iran.liara.run/">View the project</a>
+  <a href="https://turbo-writers.liara.run/">View the project</a>
   <hr />
 </p>
 <p>
