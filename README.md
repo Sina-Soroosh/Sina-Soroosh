@@ -4,7 +4,7 @@ Hi 👋 My name is Sina Sorooshfar
 Front-End Developer
 -----------------
 
-A junior Front-End developer with deep knowledge in Javascripts framework "React js".
+A Front-End developer with deep knowledge in Javascripts framework "React js".
 
 * ✉   You can contact me at <a href="mailto:sinasoroosh07@gmail.com">sinasoroosh07@gmail.com</a>
 * 🧠  I'm learning Tailwind
