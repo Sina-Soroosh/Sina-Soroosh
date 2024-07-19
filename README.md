@@ -7,7 +7,7 @@ Front-End Developer
 A Front-End developer with deep knowledge in Javascripts framework "React js".
 
 * ✉   You can contact me at <a href="mailto:sinasoroosh07@gmail.com">sinasoroosh07@gmail.com</a>
-* 🧠  I'm learning Tailwind
+* 🧠  I'm learning WebSocket
 * ⚡  I'm so interested in coding!
 
 ### Skills
@@ -20,11 +20,20 @@ A Front-End developer with deep knowledge in Javascripts framework "React js".
     <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="36" height="36" alt="nextjs" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="36" height="36" alt="Tailwind" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 </p>
 
 ### Work Samples
+<p>
+  <b>Code Central</b>
+  <p>
+    The code center is a site for programming questions developed with typescript and nextjs
+</p>
+  <a href="https://codecentral.liara.run/">View the project</a>
+  <hr />
+</p>
 <p>
   <b>Pearl</b>
   <p>
