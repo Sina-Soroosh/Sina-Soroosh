@@ -7,7 +7,7 @@ Front-End Developer
 A front-end developer who loves JavaScript and react js and next js.
 
 * ✉   You can contact me at <a href="mailto:sinasoroosh07@gmail.com">sinasoroosh07@gmail.com</a>
-* 🧠  I'm learning PWA
+* 🧠  I'm learning Python
 * ⚡  I'm so interested in coding!
 
 ### Skills
@@ -98,5 +98,4 @@ Sepinod store site developed with React library
   <a href="https://github.com/Sina-Soroosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-Soroosh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a>
   <br />
 <a href="http://www.github.com/Sina-Soroosh"><img src="https://github-readme-stats.vercel.app/api?username=Sina-Soroosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sina-Soroosh's GitHub stats" /></a>
-<a href="http://www.github.com/Sina-Soroosh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sina-Soroosh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
