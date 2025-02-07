@@ -1,4 +1,4 @@
-Hi 👋 My name is Sina Sorooshfar
+Hi 👋 My name is Sina Soroosh
 ================================
 
 Front-End Developer
