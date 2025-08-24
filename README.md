@@ -40,7 +40,7 @@ A front-end developer who loves JavaScript and react js and next js.
   <p>
     Pearl store site with next js developed with page router
 </p>
-  <a href="https://pearl.liara.run/">View the project</a>
+  <a href="https://pearl-gamma.vercel.app/">View the project</a>
   <hr />
 </p>
 <p>
