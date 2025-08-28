@@ -48,7 +48,7 @@ A front-end developer who loves JavaScript and react js and next js.
   <p>
     Turbo Writers site for publishing articles developed with React and Redux
 </p>
-  <a href="https://turbo-writers.liara.run/">View the project</a>
+  <a href="https://turbo-writers.vercel.app/">View the project</a>
   <hr />
 </p>
 <p>
@@ -57,32 +57,32 @@ A front-end developer who loves JavaScript and react js and next js.
   <p>
 Sepinod store site developed with React library
 </p>
-  <a href="https://spinod.iran.liara.run/">View the project</a>
+  <a href="https://spinod.vercel.app/">View the project</a>
   <hr />
 </p>
 <p>
   <b>D-REC</b>
   <p>Developed a website for renting and buying houses using the React library.</p>
-  <a href="https://dreamy-mccarthy-n3ckua173.iran.liara.run/">View the project</a>
+  <a href="https://d-rec.vercel.app/">View the project</a>
   <hr />
 </p>
 
 <p>
   <b>Mahlin Restaurant Cafe</b>
   <p>Developed the landing page of Mahlin Restaurant Cafe using the React library.</p>
-  <a href="https://mahlin.iran.liara.run/">View the project</a>
+  <a href="https://mahlin.vercel.app/">View the project</a>
   <hr />
 </p>
 <p>
   <b>PC+</b>
   <p>Developed a website for selling computer parts called PC+ using html, css, and js.</p>
-  <a href="https://pc-plus.iran.liara.run/">View the project</a>
+  <a href="https://pc-plus.vercel.app/">View the project</a>
   <hr />
 </p>
 <p>
   <b>Atawich Restaurant</b>
   <p>Developed an English website for Atawich Restaurant using html, css, and js.</p>
-  <a href="https://atawich-sinasoroosh.freehost.io/">View the project</a>
+  <a href="https://atawich.vercel.app/">View the project</a>
 </p>
 
 ### Socials
