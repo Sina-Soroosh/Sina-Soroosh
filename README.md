@@ -32,7 +32,7 @@ A front-end developer who loves JavaScript and react js and next js.
   <p>
     The code center is a site for programming questions developed with typescript and nextjs
 </p>
-  <a href="https://codecentral.liara.run/">View the project</a>
+  <a href="https://code-central-one.vercel.app/">View the project</a>
   <hr />
 </p>
 <p>
