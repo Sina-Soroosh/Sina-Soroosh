@@ -7,7 +7,7 @@ Front-End Developer
 A front-end developer who loves JavaScript and react js and next js.
 
 * ✉   You can contact me at <a href="mailto:sinasoroosh07@gmail.com">sinasoroosh07@gmail.com</a>
-* 🧠  I'm learning 
+* 🧠  I'm learning Node Js
 * ⚡  I'm so interested in coding!
 
 ### Skills
